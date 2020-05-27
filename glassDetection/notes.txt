@@ -2,3 +2,10 @@ Top: 0.24570
 Me: 0.28374
 
 Rank: 111/230
+
+
+Top:0.28535
+Me:0.32930
+Final Leaderboard: 173/246
+
+Best submission: submission9.xlsx
