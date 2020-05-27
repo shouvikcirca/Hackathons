@@ -9,3 +9,7 @@ Me:0.32930
 Final Leaderboard: 173/246
 
 Best submission: submission9.xlsx
+
+
+Leaderboard URL
+https://www.machinehack.com/course/glass-quality-prediction-weekend-hackathon-6/leaderboard
