@@ -1,0 +1,14 @@
+Notebook1
+mintotalrevenueexpected and mintotalqtyexpectedfailing
+----------------
+Notebook2
+Scenario1 Hit
+703061
+
+Scenario2 Hit
+362751
+
+Scenario3 Hit
+534917
+
+----------------
